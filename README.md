@@ -122,7 +122,7 @@ npx expo start -c
 ## Dizin Yapısı 
 
 ```text
-HemoLink/
+hemoLink/
 ├── backend/                 # Node.js & Express Sunucusu
 │   ├── package.json
 │   └── src/
